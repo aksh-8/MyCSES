@@ -1,2 +1,2 @@
 # MyCSES
-Solutions to the CSES problems
+- Solutions to the CSES problems
